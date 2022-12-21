@@ -1,14 +1,15 @@
 ```C++
-class Me {
+class Chair {
     🔒 private:
         🗝️ string currentOccupation = "HS Student";
     🔓 public:
         👋 string name = "chair";
         📅 int getAge() {return currentYear - 2006;}
         🏆 string goals[numerical_limits<int>::max()] = {
-            "Study Cybersecurity",
+            "Study and explore the interwebz (cybersecurity & programming)",
             "Live a good life"
         };
+       
         🖥️ string website = "https://ethernet.lol/";
 };
 ```
